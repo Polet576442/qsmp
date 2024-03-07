@@ -1,0 +1,102 @@
+body {
+  margin: 10px;
+  background: url(../images/medusas.jpg), url(../images/medusas.jpg), url(../images/medusas.jpg);
+  background-position: 35px, 700px, 1365px;
+  background-repeat: repeat-y, repeat-y, repeat-y;
+
+}
+
+
+
+
+em {
+    color: rgb(7, 167, 87);
+    font-style: oblique;
+  }
+
+  img {
+    width: 300px;
+    border-radius: 150px;
+    float: left;
+    margin-right: 30px;
+    box-shadow: 0px 0px 20px grey;
+  }
+
+
+
+  .lugar {
+    font-weight: bold;
+  }
+
+  .pregunta {
+    font-weight: bolder;
+  }
+
+  strong {
+    color: rgb(55, 192, 223);
+  }
+
+  video {
+    width: 120px;
+    border-radius: 50px;
+    float: right;
+  
+  }
+
+  div.generalclass {
+    
+    background-color: rgb(210, 228, 185);
+
+  }
+
+  div.montblanc {
+    background-color: rgb(183, 211, 235);
+
+  }
+
+  div.seren {
+    background-color: rgb(210, 228, 185);
+
+  }
+
+  .kilo {
+    color: dodgerblue;
+  }
+
+  .blue {
+    color: dodgerblue;
+  }
+
+  .jimpam {
+    width: 320px;
+    border-radius: 160px;
+    float: left;
+    margin-right: 30px;
+    box-shadow: 0px 0px 20px grey;
+  }
+
+  .mapaa {
+    width: 280px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 30px;
+    box-shadow: 0px 0px 20px grey;
+  }
+
+
+
+  /* Buttons */
+  .button{
+    background: rgb(89, 171, 122);
+      padding: 10px;
+      border-radius: 5px;
+      color: #FFFFFF;
+      font-size: 16px;
+      border: none;   
+    }
+
+  .button:hover{
+    background: black;    
+  }
+
+ 
